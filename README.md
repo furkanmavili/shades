@@ -4,6 +4,6 @@
 
 ### Todos
 
-[] PWA
-[] Keep history of colors
-[] Light theme
+- [ ] PWA
+- [ ] Keep history of colors
+- [ ] Light theme
